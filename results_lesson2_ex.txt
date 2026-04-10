@@ -1,0 +1,77 @@
+
+Training set:...............1
+Block size:.................3
+Embedding dim:..............10
+Hidden layer size:..........200
+Batch size:.................32
+Learning rate:..............0.1
+Training loss finish:.......2.3265702724456787
+Iterations:.................39999
+Trainingset loss:...........2.272033929824829
+Devset loss:................2.279543161392212
+
+Training set:...............2
+Block size:.................3
+Embedding dim:..............15
+Hidden layer size:..........300
+Batch size:.................48
+Learning rate:..............0.1
+Training loss finish:.......2.300056219100952
+Iterations:.................39999
+Trainingset loss:...........2.251683473587036
+Devset loss:................2.272416830062866
+
+Training set:...............3
+Block size:.................5
+Embedding dim:..............10
+Hidden layer size:..........150
+Batch size:.................32
+Learning rate:..............0.1
+Training loss finish:.......1.3948951959609985
+Iterations:.................42012
+Trainingset loss:...........2.260451555252075
+Devset loss:................2.275192975997925
+
+Training set:...............4
+Block size:.................5
+Embedding dim:..............6
+Hidden layer size:..........150
+Batch size:.................32
+Learning rate:..............0.1
+Training loss finish:.......2.4388587474823
+Iterations:.................59999
+Trainingset loss:...........2.274918556213379
+Devset loss:................2.2883315086364746
+
+Training set:...............1
+Block size:.................3
+Embedding dim:..............6
+Hidden layer size:..........150
+Batch size:.................32
+Learning rate:..............0.1
+Training loss finish:.......2.191556215286255
+Iterations:.................59999
+Trainingset loss:...........2.2875781059265137
+Devset loss:................2.3010201454162598
+
+Training set:...............2
+Block size:.................3
+Embedding dim:..............15
+Hidden layer size:..........250
+Batch size:.................32
+Learning rate:..............0.1
+Training loss finish:.......1.9758577346801758
+Iterations:.................59999
+Trainingset loss:...........2.2461843490600586
+Devset loss:................2.270002603530884
+
+Training set:...............3
+Block size:.................3
+Embedding dim:..............10
+Hidden layer size:..........500
+Batch size:.................64
+Learning rate:..............0.1
+Training loss finish:.......2.5369019508361816
+Iterations:.................59999
+Trainingset loss:...........2.2286596298217773
+Devset loss:................2.25342059135437
