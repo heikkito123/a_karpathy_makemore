@@ -18,4 +18,4 @@ The "names" are exotic, but more name-like than with the bigram model. I got a c
 
 **PART 3**
 
-Progressing..
+Kaimin initialization and batch normalization + visualizing intermediate steps during training. This was an eye opening lesson, though i should also read through and (try to) understand the theory behind all this. Working with tensors, let alone with huge amount of parameters makes the forward-backward-passes hard to understand. You just have to accept the cumulative nature of learning, especially with maths, and revise these later again.
