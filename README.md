@@ -23,3 +23,9 @@ Kaimin initialization and batch normalization + visualizing intermediate steps d
 **PART 4**
 
 Progressed through part 4, the backpropagation by hand processs, got frustrated and did some revising on former parts. Whereas I'm fairly decent at calculus, moving on to named variables and adding tensors and the pytorch api in the mix makes me question the choices I've made.
+
+WIP: must take a look back at some point.
+
+**PART 5**
+
+Building pytorch api and playing around with tensor dimensions between layers. At this point tensors, layers and general architecture is much clearer, but it's not even close to intuitive. And once again, adding in the pytorch and numpy-like api makes it just that much more unclear.
