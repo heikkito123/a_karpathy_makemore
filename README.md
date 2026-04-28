@@ -29,3 +29,12 @@ WIP: must take a look back at some point.
 **PART 5**
 
 Building pytorch api and playing around with tensor dimensions between layers. At this point tensors, layers and general architecture is much clearer, but it's not even close to intuitive. And once again, adding in the pytorch and numpy-like api makes it just that much more unclear.
+
+**PART 6**
+
+Progressing..
+
+**RUNNING NOTES**
+- go over the part 4 backprop with thought
+- revise part 5 tensor shapes and averaging dimensions, stamp part 5 ~8.40
+- revise part 5 (B, T//n, C*n) logic and averaging over dimensions
