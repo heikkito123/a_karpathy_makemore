@@ -32,7 +32,7 @@ Building pytorch api and playing around with tensor dimensions between layers. A
 
 **PART 6**
 
-Progressing..
+WIP: 10.5M params, did the transformer model training in google colab with T4 GPU, took about 48mins, saved the params and loaded locally. Output is english-ish. Having a little hard time once again with tensor shapes and model architecture, and especially with the concepts.
 
 **RUNNING NOTES**
 - go over the part 4 backprop with thought
